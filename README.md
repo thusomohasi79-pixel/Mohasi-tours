@@ -1,2 +1,2 @@
-# Mohasi-tours
+Lesotho festival website 
 Deploy from branch
