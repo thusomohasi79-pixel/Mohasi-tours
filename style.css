@@ -135,4 +135,12 @@ width:300px;
 border-radius:10px;
 margin:10px;
 }
+h1 a{
+text-decoration:none;
+color:#004080;
+}
+
+h1 a:hover{
+color:#ff9900;
+}
 
