@@ -57,7 +57,7 @@ padding:10px;
 border:none;
 }
 .hero{
-background-image: url("images/festival.jpg");
+background-image: url("festival.jpg");
 background-size: cover;
 background-position: center;
 color:white;
@@ -95,3 +95,44 @@ text-align:center;
 padding:15px;
 margin-top:40px;
 }
+
+iframe{
+margin-top:20px;
+border-radius:8px;
+}
+
+ul li{
+margin:5px;
+}
+body{
+font-family: Arial, sans-serif;
+margin:0;
+padding:0;
+
+background-image: url("festival.jpg");
+background-size: cover;
+background-position: center;
+background-attachment: fixed;
+color: #333;
+}
+section{
+background: rgba(255,255,255,0.9);
+margin: 20px;
+padding: 20px;
+border-radius: 10px;
+}
+h1{
+text-align:center;
+color:#004080;
+}
+
+h2{
+color:#006600;
+}
+
+img{
+width:300px;
+border-radius:10px;
+margin:10px;
+}
+
